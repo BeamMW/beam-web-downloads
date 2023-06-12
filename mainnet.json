@@ -46,10 +46,10 @@
     "date": 1661212800,
     "links": {
       "store": "https://play.google.com/store/apps/details?id=com.mw.beam.beamwallet.mainnet",
-      "wallet": "https://builds.beam.mw/mainnet/android/mainnet-7.1.apk"
+      "wallet": "https://builds.beam.mw/mainnet/android/mainnet-7.3.apk"
     },
     "checksums": {
-      "wallet": "79be44596cf66047e798f94c1ecf75f9e05734b681e854742474c651d949dc90"
+      "wallet": "42e7ea364a7f874d4fef9734ccbdc2d556772a1f0f392b9af01f178c708075e0"
     }
   },
   "ios": {
