@@ -42,8 +42,8 @@
     }
   },
   "android": {
-    "version": "7.1.13105",
-    "date": 1661212800,
+    "version": "7.3",
+    "date": 1686592663,
     "links": {
       "store": "https://play.google.com/store/apps/details?id=com.mw.beam.beamwallet.mainnet",
       "wallet": "https://builds.beam.mw/mainnet/android/mainnet-7.3.apk"
