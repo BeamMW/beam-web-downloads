@@ -3,9 +3,9 @@
     "version": "7.5.13840",
     "date": 1704287083,
     "links": {
-      "wallet": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/signed/Beam-Wallet-7.5.13840.5763.exe",
-      "cli": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/signed/beam-wallet-cli-7.5.13840.zip",
-      "node": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/signed/beam-node-7.5.13840.zip"
+      "wallet": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/Beam-Wallet-7.5.13840.5763.exe",
+      "cli": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/beam-wallet-cli-7.5.13840.zip",
+      "node": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/beam-node-7.5.13840.zip"
     },
     "checksums": {
       "wallet": "9f0904994c983b78ae87cd078858cea0c2e4d24628499686b0022c5176152ded",
