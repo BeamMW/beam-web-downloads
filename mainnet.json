@@ -1,44 +1,44 @@
 {
   "windows": {
-    "version": "7.5.13840",
-    "date": 1704287083,
+    "version": "7.5.13882",
+    "date": 1716664485,
     "links": {
       "wallet": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/Beam-Wallet-7.5.13840.5763.exe",
-      "cli": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/beam-wallet-cli-7.5.13840.zip",
-      "node": "https://builds.beam.mw/mainnet/2024.01.03/Release/win/beam-node-7.5.13840.zip"
+      "cli": "https://builds.beam.mw/mainnet/2024.05.25/Release/win/beam-wallet-cli-7.5.13882.zip",
+      "node": "https://builds.beam.mw/mainnet/2024.05.25/Release/win/beam-node-7.5.13882.zip"
     },
     "checksums": {
       "wallet": "9f0904994c983b78ae87cd078858cea0c2e4d24628499686b0022c5176152ded",
-      "cli": "1480dcc6b46026b5b0caf1764fa2ee1fa12fa7cf452eba6d880549bdad1156df",
-      "node": "df35dace852c5be1b3e811c0ad4317dcffa1f0bac0b4faa85d29b4f2ac1618ac"
+      "cli": "c339ef7eaaa4c04e765db7ec0e0c2e5ee6446bdaa510e14c89f21ecbf79a4c45",
+      "node": "df4c7f5d8b81e3ddabcef6da01989adc22c02f1a521a7c19b9d93a55cfaa5c61"
     }
   },
   "linux": {
-    "version": "7.5.13840",
-    "date": 1704287083,
+    "version": "7.5.13882",
+    "date": 1716664485,
     "links": {
       "wallet": "https://builds.beam.mw/mainnet/2024.01.03/Release/linux/Beam-Wallet-7.5.13840.5763.zip",
-      "cli": "https://builds.beam.mw/mainnet/2024.01.03/Release/linux/beam-wallet-cli-7.5.13840.zip",
-      "node": "https://builds.beam.mw/mainnet/2024.01.03/Release/linux/beam-node-7.5.13840.zip"
+      "cli": "https://builds.beam.mw/mainnet/2024.05.25/Release/linux/beam-wallet-cli-7.5.13882.zip",
+      "node": "https://builds.beam.mw/mainnet/2024.05.25/Release/linux/beam-node-7.5.13882.zip"
     },
     "checksums": {
       "wallet": "ada4ac7a89eebca55c6ed3e49dad98174d014fd942dabaf13f2759ff3e035008",
-      "cli": "337fc51aa0bff46f0e6b12f4254867e7b521a91308ac28782d97a1fc281bc651",
-      "node": "f14e768d7fbbf791248047833976210a59474bf5fae11ec4a7d6608113049f2f"
+      "cli": "485c23fd6cb3cd290bbe8e1890c7ce8d4ed2158bad54528fb78bfab56564a62d",
+      "node": "4f23fa186fd8ccc8805c0ea91d42f10ce97823eb3c072eebffb0d8ba4e54c03e"
     }
   },
   "macos": {
-    "version": "7.5.13840",
-    "date": 1704287083,
+    "version": "7.5.13882",
+    "date": 1716664485,
     "links": {
       "wallet": "https://builds.beam.mw/mainnet/2024.01.03/Release/mac/Beam-Wallet-7.5.13840.5763.dmg",
-      "cli": "https://builds.beam.mw/mainnet/2024.01.03/Release/mac/beam-wallet-cli-7.5.13840.zip",
-      "node": "https://builds.beam.mw/mainnet/2024.01.03/Release/mac/beam-node-7.5.13840.zip"
+      "cli": "https://builds.beam.mw/mainnet/2024.05.25/Release/mac/beam-wallet-cli-7.5.13882.zip",
+      "node": "https://builds.beam.mw/mainnet/2024.05.25/Release/mac/beam-node-7.5.13882.zip"
     },
     "checksums": {
       "wallet": "9df03ad4667992007427a868097acfedbe179e7dbec27f45ff776b3f9aafe2be",
-      "cli": "a3e48f00b0d100cf4d0fcbef0518e8a6358751c799f1c0a011c7f9653059aa11",
-      "node": "ea7dd5dd7600ab80b6fbc2f1c5a5dae0633e284c2aebe7cc6a965f6fb588cdb6"
+      "cli": "dd14f89b7f8cc0619b69460d52ef73a69b712151d88b94098d441abf73248260",
+      "node": "8ed51d30e5621e9fb14bbd08993e901cb4827a23415415b18c0f371dd0fe3c5a"
     }
   },
   "android": {
