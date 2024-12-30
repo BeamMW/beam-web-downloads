@@ -112,7 +112,6 @@ The JSON structure contains information about the Beam wallet downloads for vari
     "version": STRING, // The version number of the software.
     "date": INTEGER, // The release date as a UNIX timestamp.
     "links": {
-      "store": STRING, // Link to the Beam Wallet on the Google Play Store.
       "wallet": STRING // Download link for the Beam Wallet APK.
     },
     "checksums": {
