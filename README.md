@@ -46,7 +46,6 @@ The JSON structure contains information about the Beam wallet downloads for vari
 - `version`: The Android wallet version.
 - `date`: The release date of the Android wallet in Unix timestamp format.
 - `links`: Download links for the Android wallet.
-  - `store`: The Google Play Store link for the Android wallet.
   - `wallet`: The direct link to the Android wallet APK.
 - `checksums`: Checksums for the wallet download.
   - `wallet`: The SHA256 checksum for the Android wallet.
