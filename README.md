@@ -10,10 +10,12 @@ The JSON structure contains information about the Beam wallet downloads for vari
   - `wallet`: The direct link to the Windows wallet executable.
   - `cli`: The direct link to the Windows wallet CLI archive.
   - `node`: The direct link to the Windows node archive.
+  - `api`: The direct link to the Windows wallet API archive (optional; present when published).
 - `checksums`: Checksums for the wallet, CLI, and node downloads.
   - `wallet`: The SHA256 checksum for the Windows wallet.
   - `cli`: The SHA256 checksum for the Windows wallet CLI.
   - `node`: The SHA256 checksum for the Windows node.
+  - `api`: The SHA256 checksum for the Windows wallet API (optional).
 
 ## Linux
 
@@ -23,10 +25,12 @@ The JSON structure contains information about the Beam wallet downloads for vari
   - `wallet`: The direct link to the Linux wallet archive.
   - `cli`: The direct link to the Linux wallet CLI archive.
   - `node`: The direct link to the Linux node archive.
+  - `api`: The direct link to the Linux wallet API archive (optional; present when published).
 - `checksums`: Checksums for the wallet, CLI, and node downloads.
   - `wallet`: The SHA256 checksum for the Linux wallet.
   - `cli`: The SHA256 checksum for the Linux wallet CLI.
   - `node`: The SHA256 checksum for the Linux node.
+  - `api`: The SHA256 checksum for the Linux wallet API (optional).
 
 ## macOS
 
@@ -36,10 +40,12 @@ The JSON structure contains information about the Beam wallet downloads for vari
   - `wallet`: The direct link to the macOS wallet disk image.
   - `cli`: The direct link to the macOS wallet CLI archive.
   - `node`: The direct link to the macOS node archive.
+  - `api`: The direct link to the macOS wallet API archive (optional; present when published).
 - `checksums`: Checksums for the wallet, CLI, and node downloads.
   - `wallet`: The SHA256 checksum for the macOS wallet.
   - `cli`: The SHA256 checksum for the macOS wallet CLI.
   - `node`: The SHA256 checksum for the macOS node.
+  - `api`: The SHA256 checksum for the macOS wallet API (optional).
 
 ## Android
 
@@ -72,12 +78,14 @@ The JSON structure contains information about the Beam wallet downloads for vari
     "links": {
       "wallet": STRING, // Download link for the Beam Wallet application.
       "cli": STRING, // Download link for the Beam Wallet CLI.
-      "node": STRING // Download link for the Beam Node.
+      "node": STRING, // Download link for the Beam Node.
+      "api": STRING // Download link for the Beam Wallet API (optional).
     },
     "checksums": {
       "wallet": STRING, // Checksum for the Beam Wallet application.
       "cli": STRING, // Checksum for the Beam Wallet CLI.
-      "node": STRING // Checksum for the Beam Node.
+      "node": STRING, // Checksum for the Beam Node.
+      "api": STRING // Checksum for the Beam Wallet API (optional).
     }
   },
   "linux": {
@@ -86,12 +94,14 @@ The JSON structure contains information about the Beam wallet downloads for vari
     "links": {
       "wallet": STRING, // Download link for the Beam Wallet application.
       "cli": STRING, // Download link for the Beam Wallet CLI.
-      "node": STRING // Download link for the Beam Node.
+      "node": STRING, // Download link for the Beam Node.
+      "api": STRING // Download link for the Beam Wallet API (optional).
     },
     "checksums": {
       "wallet": STRING, // Checksum for the Beam Wallet application.
       "cli": STRING, // Checksum for the Beam Wallet CLI.
-      "node": STRING // Checksum for the Beam Node.
+      "node": STRING, // Checksum for the Beam Node.
+      "api": STRING // Checksum for the Beam Wallet API (optional).
     }
   },
   "macos": {
@@ -100,12 +110,14 @@ The JSON structure contains information about the Beam wallet downloads for vari
     "links": {
       "wallet": STRING, // Download link for the Beam Wallet application.
       "cli": STRING, // Download link for the Beam Wallet CLI.
-      "node": STRING // Download link for the Beam Node.
+      "node": STRING, // Download link for the Beam Node.
+      "api": STRING // Download link for the Beam Wallet API (optional).
     },
     "checksums": {
       "wallet": STRING, // Checksum for the Beam Wallet application.
       "cli": STRING, // Checksum for the Beam Wallet CLI.
-      "node": STRING // Checksum for the Beam Node.
+      "node": STRING, // Checksum for the Beam Node.
+      "api": STRING // Checksum for the Beam Wallet API (optional).
     }
   },
   "android": {
