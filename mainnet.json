@@ -46,15 +46,24 @@
     }
   },
   "android": {
-    "version": "7.3",
-    "date": 1686592663,
+    "version": "7.4",
+    "date": 1787844601,
     "links": {
-      "store": "https://builds.beam.mw/mainnet/android/mainnet-7.3.apk",
-      "wallet": "https://builds.beam.mw/mainnet/android/mainnet-7.3.apk"
+      "store": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-arm64-v8a.apk",
+      "wallet": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-arm64-v8a.apk",
+      "walletUniversal": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-universal.apk",
+      "changelog": "https://github.com/BeamMW/android-wallet/releases/tag/mainnet_7.4"
     },
     "checksums": {
-      "wallet": "42e7ea364a7f874d4fef9734ccbdc2d556772a1f0f392b9af01f178c708075e0"
+      "wallet": "0a76cbd9f4bd8e2e02bbe9c03bcd83ac97ceee5e869a20511ec1a84a8ee2fa9f",
+      "walletUniversal": "a2f9a50672416594b67b1ac3c1fd0aeeb24064229a08d8c4b54901d36c93d51d"
     }
+  },
+  "ios": {
+    "links": {
+      "store": "https://apps.apple.com/us/app/beam-privacy-wallet/id1459842353?ls=1"
+    },
+    "checksums": {}
   },
   "chrome": {
     "links": {
