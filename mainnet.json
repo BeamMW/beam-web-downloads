@@ -46,17 +46,17 @@
     }
   },
   "android": {
-    "version": "7.4",
-    "date": 1787844601,
+    "version": "7.4.14548.972",
+    "date": 1795617740,
     "links": {
-      "store": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-arm64-v8a.apk",
-      "wallet": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-arm64-v8a.apk",
-      "walletUniversal": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4/mainnet-7.4-universal.apk",
-      "changelog": "https://github.com/BeamMW/android-wallet/releases/tag/mainnet_7.4"
+      "store": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-arm64-v8a.apk",
+      "wallet": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-arm64-v8a.apk",
+      "walletUniversal": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-universal.apk",
+      "changelog": "https://github.com/BeamMW/android-wallet/releases/tag/mainnet_7.4.14548.972"
     },
     "checksums": {
-      "wallet": "0a76cbd9f4bd8e2e02bbe9c03bcd83ac97ceee5e869a20511ec1a84a8ee2fa9f",
-      "walletUniversal": "a2f9a50672416594b67b1ac3c1fd0aeeb24064229a08d8c4b54901d36c93d51d"
+      "wallet": "502687bd6552a83b810800838d2b10ccda11ad48fb687272f73842a99c2f7ae3",
+      "walletUniversal": "313697e5cf151663e6fde324a8d01763ca14b68f2d76d9d1a5504f25ecc6a16c"
     }
   },
   "ios": {
