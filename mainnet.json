@@ -49,9 +49,9 @@
     "version": "7.4.14548.972",
     "date": 1795617740,
     "links": {
-      "store": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-arm64-v8a.apk",
-      "wallet": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-arm64-v8a.apk",
-      "walletUniversal": "https://github.com/BeamMW/android-wallet/releases/download/mainnet_7.4.14548.972/mainnet-7.4.14548.972-universal.apk",
+      "store": "https://builds.beam.mw/mainnet/android/mainnet-7.4.14548.972-arm64-v8a.apk",
+      "wallet": "https://builds.beam.mw/mainnet/android/mainnet-7.4.14548.972-arm64-v8a.apk",
+      "walletUniversal": "https://builds.beam.mw/mainnet/android/mainnet-7.4.14548.972-universal.apk",
       "changelog": "https://github.com/BeamMW/android-wallet/releases/tag/mainnet_7.4.14548.972"
     },
     "checksums": {
